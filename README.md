@@ -9,7 +9,6 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | .NET" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="Assembly" height="31px" src="https://i.imgur.com/fxhrRqk.png"/></a>
-<a>&nbsp;<img align="center" alt="Assembly" height="36px" src="https://i.imgur.com/YmROxwU.png"/></a>
 
 
 
