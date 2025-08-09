@@ -8,7 +8,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | .NET" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="Assembly" height="31px" src="https://i.imgur.com/fxhrRqk.png"/></a>
+<a>&nbsp;<img align="center" alt="Assembly" height="30px" src="https://i.imgur.com/keVBg13.png"/></a>
 
 
 
