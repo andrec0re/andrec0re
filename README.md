@@ -1,4 +1,4 @@
-*🇵🇹 Porto, software enthusiastic*
+*🇵🇹 Portugal, software enthusiastic*
 
 ## Backend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | C#" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a>
