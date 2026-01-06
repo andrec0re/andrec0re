@@ -3,7 +3,7 @@
 ## Backend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | C#" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Cpp" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/c/c-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Java" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
